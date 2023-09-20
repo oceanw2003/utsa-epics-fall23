@@ -1,7 +1,7 @@
 import os
 
 folder_path = "C:\\Users\\ocean\\OneDrive\\Desktop\\Files\\UTSA\\UTSA Classes and Resourses\\Fall 2023\\EGR1352 EPICS\\50 Images"  # Replace this with your actual folder path
-new_name_prefix = "C300"  # You can change this prefix if you want
+new_name_prefix = "C300"   # You can change this prefix if you want
 
 # Get a list of all files in the folder
 file_list = os.listdir(folder_path)
